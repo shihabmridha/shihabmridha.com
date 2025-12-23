@@ -1,0 +1,15 @@
+{
+    "name": "shihabmridha",
+    "compatibility_date": "2025-05-28",
+    "assets": {
+        "directory": "./"
+    },
+    "workers_dev": false,
+    "route": {
+        "pattern": "shihabmridha.com",
+        "custom_domain": true
+    },
+    "observability": {
+        "enabled": false
+    }
+}
